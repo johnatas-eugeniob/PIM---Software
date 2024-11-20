@@ -1,0 +1,24 @@
+{
+	"empresa":	{
+		"nome":	"Horti-Bom",
+		"cnpj":	"12.345.678/0001-90",
+		"data_relatorio":	""
+	},
+	"fluxo_caixa":	{
+		"saldo_inicial":	800000,
+		"saldo_final":	0
+	},
+	"resumo_financeiro":	{
+		"total_receitas":	0,
+		"total_despesas":	0,
+		"lucro_liquido":	0,
+		"formas_pagamento":	{
+			"dinheiro":	0,
+			"cartao":	0,
+			"pix":	0
+		}
+	},
+	"resumo_estoque":	{
+		"total":	0
+	}
+}
