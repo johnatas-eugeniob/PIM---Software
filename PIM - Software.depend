@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1727089738 source:c:\users\belch\documents\projetos_em_c\pim - software\libs\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<float.h>
+	<locale.h>
+	"cJSON.h"
+
+1727089738 c:\users\belch\documents\projetos_em_c\pim - software\libs\cjson.h
+	<stddef.h>
+
+1727089738 source:c:\users\belch\documents\pim - software\libs\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<float.h>
+	<locale.h>
+	"cJSON.h"
+
+1727089738 c:\users\belch\documents\pim - software\libs\cjson.h
+	<stddef.h>
+
+1732113017 source:c:\users\belch\documents\pim - software\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+	<string.h>
+	"caixa.h"
+	"pesagem.h"
+	"libs/cJSON.h"
+	<time.h>
+
+1732114343 source:c:\users\belch\documents\pim - software\caixa.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+	<string.h>
+	"libs/cJSON.h"
+	"caixa.h"
+	"main.h"
+	<time.h>
+
+1732062470 source:c:\users\belch\documents\pim - software\pesagem.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+	<string.h>
+	"libs/cJSON.h"
+	"pesagem.h"
+	<time.h>
+
+1731866161 c:\users\belch\documents\pim - software\pesagem.h
+
+1732039545 c:\users\belch\documents\pim - software\caixa.h
+
+1731939532 c:\users\belch\documents\pim - software\main.h
+
