@@ -1,0 +1,9 @@
+{
+	"admins":	[{
+			"id":	1,
+			"username":	"Johnatas",
+			"cpf":	12345678910,
+			"email":	"adm01",
+			"password":	"123456"
+		}]
+}

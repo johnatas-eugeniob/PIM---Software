@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="pesagem.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="45" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="caixa.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="25255" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="17" />
+			<Collapse line="145" />
+			<Collapse line="256" />
+			<Collapse line="397" />
+		</Folding>
+	</File>
+	<File name="main.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="45" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="caixa.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="98" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="59691" topLine="110" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+			<Collapse line="52" />
+			<Collapse line="195" />
+			<Collapse line="259" />
+			<Collapse line="372" />
+			<Collapse line="468" />
+			<Collapse line="626" />
+			<Collapse line="695" />
+			<Collapse line="764" />
+			<Collapse line="836" />
+			<Collapse line="908" />
+			<Collapse line="1036" />
+			<Collapse line="1164" />
+			<Collapse line="1294" />
+			<Collapse line="1577" />
+			<Collapse line="1631" />
+			<Collapse line="1685" />
+			<Collapse line="1777" />
+			<Collapse line="1884" />
+			<Collapse line="1966" />
+			<Collapse line="2065" />
+			<Collapse line="2164" />
+			<Collapse line="2306" />
+			<Collapse line="2342" />
+			<Collapse line="2379" />
+			<Collapse line="2460" />
+			<Collapse line="2559" />
+			<Collapse line="2656" />
+			<Collapse line="2719" />
+			<Collapse line="2770" />
+			<Collapse line="2834" />
+			<Collapse line="2885" />
+			<Collapse line="2993" />
+			<Collapse line="3075" />
+			<Collapse line="3121" />
+			<Collapse line="3273" />
+			<Collapse line="3311" />
+			<Collapse line="3380" />
+			<Collapse line="3397" />
+		</Folding>
+	</File>
+	<File name="pesagem.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3697" topLine="102" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

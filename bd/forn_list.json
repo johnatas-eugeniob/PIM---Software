@@ -1,0 +1,12 @@
+{
+	"fornecedores":	[{
+			"id":	1,
+			"username":	"Seasa",
+			"cpf/cnpj":	432256,
+			"endereco":	"Rua das amarilis souza sampaio",
+			"telefone":	112345434567,
+			"email":	"seasa@gmail.com",
+			"categoria":	"Frutas",
+			"prazo":	12
+		}]
+}

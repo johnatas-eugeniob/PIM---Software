@@ -1,0 +1,24 @@
+{
+	"etiquetas":	[{
+			"id_etiqueta":	1,
+			"id_produto":	3,
+			"produto":	"Laranja",
+			"peso":	2,
+			"preco_calculado":	1,
+			"data":	"2024-11-19"
+		}, {
+			"id_etiqueta":	2,
+			"id_produto":	2,
+			"produto":	"Alface",
+			"peso":	0.5,
+			"preco_calculado":	0.34999999403953552,
+			"data":	"2024-11-20"
+		}, {
+			"id_etiqueta":	3,
+			"id_produto":	3,
+			"produto":	"Laranja",
+			"peso":	2,
+			"preco_calculado":	1.3999999761581421,
+			"data":	"2024-11-20"
+		}]
+}

@@ -1,0 +1,21 @@
+{
+	"admins":	[{
+			"id":	1,
+			"username":	"Johnatas",
+			"cpf":	12345678910,
+			"email":	"adm01",
+			"password":	"123456"
+		}, {
+			"id":	2,
+			"username":	"Rubens",
+			"cpf":	12345678,
+			"email":	"zika@",
+			"password":	"123456"
+		}, {
+			"id":	3,
+			"username":	"Magali",
+			"cpf":	12345679,
+			"email":	"m@",
+			"password":	"123456"
+		}]
+}

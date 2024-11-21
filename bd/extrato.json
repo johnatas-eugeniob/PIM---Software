@@ -1,0 +1,13 @@
+[{
+		"itens":	[{
+				"id":	1,
+				"quantidade":	10,
+				"total":	17
+			}],
+		"pagamento":	{
+			"forma_pagamento":	"PIX",
+			"valor_pago":	17,
+			"troco":	0,
+			"total":	17
+		}
+	}]
