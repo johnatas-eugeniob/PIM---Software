@@ -12,7 +12,7 @@ Este documento apresenta a estrutura de um sistema feito para um hortifruti, ond
 
 Os códigos fontes e demais pastas necessárias para a completa utilização do software está no github (plataforma de hospedagem de código fonte), do integrante responsável pelo desenvolvimento do software.
 
-* link para o repositório: [https://github.com/iTzKoringaF4/PIM---Software.git](https://github.com/johnatas-eugeniob/PIM---Software.git)
+* link para o repositório: [https://github.com/johnatas-eugeniob/PIM---Software.git](https://github.com/johnatas-eugeniob/PIM---Software.git)
 
 Para seguir com a instalação é necessário acessar o repositório e escolher realizar o download da pasta .rar do projeto. A partir deste ponto e com sua IDE devidamente instalada e pronta, é possível compilar e utilizar o software.
 
